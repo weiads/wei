@@ -1,30 +1,44 @@
-CCTV1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4 中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV5 体育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV6 电影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV7 国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV8 电视剧,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV9 纪录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV11 戏曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV12 社会与法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV13 新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV14 少儿,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV15 音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-CCTV1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
-CCTV2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-CCTV4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CCTV8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-
+🎈 香港,#genre#
+凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+凤凰资讯,http://lcx-olt.8866.org:8181/tsfile/live/1072_1.m3u8
+凤凰香港,http://113.117.74.10:8081/hls/38/index.m3u8
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
+翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686312646&rand=hPJgZ3EFou&uuid=9b647b3816b2a66a&from=web&sign=d3f919309615a6398f9d278153ee5690
+翡翠台,http://113.117.74.15:8081/hls/67/index.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://113.117.74.10:8081/hls/67/index.m3u8
+翡翠台,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=2
+翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+无线新闻,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686276774&rand=8TEOYmNn7s&uuid=9b647b3816b2a66a&from=web&sign=7ac7590c5e773941963ee188ef367054
+无线新闻,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686312720&rand=HIPVSHSf0B&uuid=9b647b3816b2a66a&from=web&sign=4859e57314ef365b4b28bcd602d53309
+无线新闻,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=13
+J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
+J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686312552&rand=bGny6hLVof&uuid=9b647b3816b2a66a&from=web&sign=0ebd922ca5dc14b159820b91ae9bb82e
+J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+J2,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=5
+无线财经,https://dispatch.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&timestamp=1686276853&rand=1xBXJ7XCnx&uuid=9b647b3816b2a66a&from=web&sign=0f8e8d63dedcb39beaaf15fd026e6627
+无线财经,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=14
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+明珠台,https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686312605&rand=tO1JGrXmjL&uuid=9b647b3816b2a66a&from=web&sign=477fda8433634b8b2e3c3e9e64fc5c41
+明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+明珠台,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=3
+HOY资讯,https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+HOY TV,https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1686312768&rand=cidk3uU7zb&uuid=9b647b3816b2a66a&from=web&sign=9de9834fec7256066532c141b77b5dc8
+HOY TV,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=1
+ViuTV,https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686312626&rand=1QvR1usN8y&uuid=9b647b3816b2a66a&from=web&sign=4b46e32e2feb6d5965f87b3ee47f3dbe
+Now财经,https://dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkvw6g98g&timestamp=1686312672&rand=0zuS38Je8f&uuid=9b647b3816b2a66a&from=web&sign=a8081b1d965930e4425d8744f6d74c72
+港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
+TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+測試002,http://sc2022.stream-link.org/tv2306.php?id=c02
+J2,http://sc2022.stream-link.org/tv2306.php?id=h03
+无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
+港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h09
+HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h13
+HOY资讯,http://sc2022.stream-link.org/tv2306.php?id=h14
+HOY资讯,http://sc2022.stream-link.org/tv2306.php?id=h15
+凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h17
